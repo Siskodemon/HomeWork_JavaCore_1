@@ -1,4 +1,4 @@
-//package ru.gb.jcore.regular;
+package For_docs;
 
 /**
  * Другой, очень полезный класс приложения. Здесь мы можем описать
